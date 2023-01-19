@@ -1,0 +1,28 @@
+
+h1 {color: rgb(193, 41, 41);}
+
+
+
+body {
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 5px;
+   
+}
+
+section.top-page {
+
+    background: url('../image/Image1.jpeg')
+}
+
+header.header img {
+    width: 400px;
+}
+
+nav.navigation{
+    display: flex;
+    list-style: none;
+    color: white;
+    margin-left: 200px;
+    justify-content: space-between;
+}
+
